@@ -21,7 +21,7 @@ Recent market trends support the shift towards Nginx. According to [W3Techs](htt
 1. **Install Nginx**
    - Download nginx by visiting their website [Download Nginx](https://nginx.org/en/download.html)
    - Download and extract Nginx to `D:\nginx`
-   - Test the installation by running `nginx.exe` and visiting `http://localhost` on your browser nad you see this page
+   - Test the installation by running `nginx.exe` and visiting `http://localhost` on your browser and you'll see this page
       ![Nginx Welcome Page](https://sk10codebase.online/images/nginx.png)
      
 ## 2. Install PHP
