@@ -12,6 +12,10 @@ While XAMPP is popular among Windows users for its ease of setup, it uses Apache
 - **Scalability**: Easily handles growth from small projects to large applications.
 - **Flexibility**: Functions well as a web server, reverse proxy, or load balancer.
 
+### Growing Popularity of Nginx
+
+Recent market trends support the shift towards Nginx. According to [W3Techs](https://w3techs.com/technologies/history_overview/web_server/ms/q), Nginx has overtaken Apache in market share. From October 2020 to November 2023, Nginx's usage increased from 32.4% to 34.1%, while Apache's decreased from 36.2% to 30.8%. This trend indicates a growing preference for Nginx's performance and efficiency in the web development community.
+
 ## Installation Steps
 
 1. **Install Nginx**
