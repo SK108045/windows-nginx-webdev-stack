@@ -217,6 +217,31 @@ Finally To simplify the process of starting both Nginx and PHP-FPM, you can crea
 4. After running the batch file: Open a web browser and navigate to http://localhost:8000 where you will see nginx running
 5. Now in order to open phpmyadmin navigate to `http://localhost:8000/phpmyadmin` and you'll see this page:
    ![phpmyadmin Login Page](https://sk10codebase.online/images/phpmyadmin.png)
+
+   
+## Wrap-up
+
+You've now set up a Windows web development environment using Nginx, PHP, MySQL, and phpMyAdmin. This setup is an alternative to XAMPP, offering better performance and resource management.
+
+### Key takeaways:
+
+- Nginx outperforms Apache in resource usage and handling concurrent connections
+- This stack mirrors many production environments, unlike XAMPP
+- You've gained practical experience in server configuration
+
+### What's next
+
+- Test your setup with actual web projects
+- Fine-tune configurations for optimal performance
+- Keep your software updated
+
+### Repository maintenance
+
+If you find issues or have improvements:
+- Use the issue tracker
+- Submit pull requests
+
+This guide is a starting point to how Real-world applications work.
    
 
 
