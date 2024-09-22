@@ -1,6 +1,8 @@
 # windows-nginx-webdev-stack
 ## nginx-based-xampp-alternative
 
+![Nginx Welcome Page](https://sk10codebase.online/images/nginx2.png)
+
 This guide explains how to set up a web development environment on Windows using Nginx, PHP, MySQL, and phpMyAdmin. Unlike XAMPP (which uses Apache), this setup uses Nginx, providing better performance and lower resource usage.
 
 ## Why Nginx over XAMPP?
