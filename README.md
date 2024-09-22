@@ -219,7 +219,9 @@ Finally To simplify the process of starting both Nginx and PHP-FPM, you can crea
    You should see a command prompt window briefly appear with the message "Nginx and PHP-FPM started."
 4. After running the batch file: Open a web browser and navigate to http://localhost:8000 where you will see nginx running
 5. Now in order to open phpmyadmin navigate to `http://localhost:8000/phpmyadmin` and you'll see this page:
-   ![phpmyadmin Login Page](https://sk10codebase.online/images/phpmyadmin.png)
+
+
+![phpmyadmin Login Page](https://sk10codebase.online/images/phpmyadmin.png)
 
    
 ## Wrap-up
