@@ -243,7 +243,7 @@ You've now set up a Windows web development environment using Nginx, PHP, MySQL,
 ### Repository maintenance
 
 If you find issues or have improvements:
-- Use the issue tracker
+- Open an issue in the repository
 - Submit pull requests
 
 This guide is a starting point to how Real-world applications work.
