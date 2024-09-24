@@ -1,4 +1,4 @@
-# windows-nginx-webdev-stack
+# windows-nginx-webdev-stac
 ## nginx-based-xampp-alternative
 
 ![Nginx](https://sk10codebase.online/images/nginx2.png)
