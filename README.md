@@ -1,7 +1,7 @@
 # windows-nginx-webdev-stack
 ## nginx-based-xampp-alternative
 
-![Nginx](https://sk10codebase.online/images/nginx2.png)
+![Nginx](https://shorturl.sk10codebase.online/images/nginx2.png)
 
 This guide explains how to set up a web development environment on Windows using Nginx, PHP, MySQL, and phpMyAdmin. Unlike XAMPP (which uses Apache), this setup uses Nginx, providing better performance and lower resource usage.
 
@@ -25,7 +25,7 @@ Recent market trends support the shift towards Nginx. According to [W3Techs](htt
    - Download and extract Nginx to `D:\nginx`
    - Test the installation by running `nginx.exe` and visiting `http://localhost` on your browser and you'll see this page
 
-![Nginx Welcome Page](https://sk10codebase.online/images/nginx.png)
+![Nginx Welcome Page](https://shorturl.sk10codebase.online/images/nginx.png)
      
 ## 2. Install PHP
 
@@ -221,7 +221,7 @@ Finally To simplify the process of starting both Nginx and PHP-FPM, you can crea
 5. Now in order to open phpmyadmin navigate to `http://localhost:8000/phpmyadmin` and you'll see this page:
 
 
-![phpmyadmin Login Page](https://sk10codebase.online/images/phpmyadmin.png)
+![phpmyadmin Login Page](https://shorturl.sk10codebase.online/images/phpmyadmin.png)
 
    
 ## Wrap-up
